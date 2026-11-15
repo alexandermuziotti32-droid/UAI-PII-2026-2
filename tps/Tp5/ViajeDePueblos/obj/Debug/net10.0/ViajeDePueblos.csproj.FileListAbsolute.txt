@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\bin\Debug\net10.0\ViajeDePueblos.exe
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\bin\Debug\net10.0\ViajeDePueblos.deps.json
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\bin\Debug\net10.0\ViajeDePueblos.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\bin\Debug\net10.0\ViajeDePueblos.dll
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\bin\Debug\net10.0\ViajeDePueblos.pdb
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.dll
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\refint\ViajeDePueblos.dll
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.pdb
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDePueblos.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ref\ViajeDePueblos.dll
+C:\Users\wilfr\Desktop\form parcial\ViajeDePueblos\obj\Debug\net10.0\ViajeDeP.CA691D09.Up2Date

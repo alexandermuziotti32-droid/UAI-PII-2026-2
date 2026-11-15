@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Juzgado\bin\Debug\net10.0\Juzgado.exe
+C:\Users\wilfr\Desktop\form parcial\Juzgado\bin\Debug\net10.0\Juzgado.deps.json
+C:\Users\wilfr\Desktop\form parcial\Juzgado\bin\Debug\net10.0\Juzgado.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Juzgado\bin\Debug\net10.0\Juzgado.dll
+C:\Users\wilfr\Desktop\form parcial\Juzgado\bin\Debug\net10.0\Juzgado.pdb
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.dll
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\refint\Juzgado.dll
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.pdb
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\ref\Juzgado.dll
+C:\Users\wilfr\Desktop\form parcial\Juzgado\obj\Debug\net10.0\Juzgado.csproj.Up2Date

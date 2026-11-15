@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Almacen\bin\Debug\net10.0\Almacen.exe
+C:\Users\wilfr\Desktop\form parcial\Almacen\bin\Debug\net10.0\Almacen.deps.json
+C:\Users\wilfr\Desktop\form parcial\Almacen\bin\Debug\net10.0\Almacen.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Almacen\bin\Debug\net10.0\Almacen.dll
+C:\Users\wilfr\Desktop\form parcial\Almacen\bin\Debug\net10.0\Almacen.pdb
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.dll
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\refint\Almacen.dll
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.pdb
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\ref\Almacen.dll
+C:\Users\wilfr\Desktop\form parcial\Almacen\obj\Debug\net10.0\Almacen.csproj.Up2Date

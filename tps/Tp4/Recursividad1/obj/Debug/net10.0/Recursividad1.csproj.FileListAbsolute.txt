@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\bin\Debug\net10.0\Recursividad1.exe
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\bin\Debug\net10.0\Recursividad1.deps.json
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\bin\Debug\net10.0\Recursividad1.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\bin\Debug\net10.0\Recursividad1.dll
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\bin\Debug\net10.0\Recursividad1.pdb
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.dll
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\refint\Recursividad1.dll
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.pdb
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursividad1.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\ref\Recursividad1.dll
+C:\Users\wilfr\Desktop\form parcial\Recursividad1\obj\Debug\net10.0\Recursiv.C80D2B7C.Up2Date

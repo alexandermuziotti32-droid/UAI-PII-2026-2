@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\bin\Debug\net10.0\CineChiquito.exe
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\bin\Debug\net10.0\CineChiquito.deps.json
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\bin\Debug\net10.0\CineChiquito.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\bin\Debug\net10.0\CineChiquito.dll
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\bin\Debug\net10.0\CineChiquito.pdb
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.dll
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\refint\CineChiquito.dll
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.pdb
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiquito.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\ref\CineChiquito.dll
+C:\Users\wilfr\Desktop\form parcial\CineChiquito\obj\Debug\net10.0\CineChiq.07966DDF.Up2Date

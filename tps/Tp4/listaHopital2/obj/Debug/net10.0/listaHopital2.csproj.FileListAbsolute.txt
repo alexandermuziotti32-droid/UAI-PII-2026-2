@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\bin\Debug\net10.0\listaHopital2.exe
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\bin\Debug\net10.0\listaHopital2.deps.json
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\bin\Debug\net10.0\listaHopital2.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\bin\Debug\net10.0\listaHopital2.dll
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\bin\Debug\net10.0\listaHopital2.pdb
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.dll
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\refint\listaHopital2.dll
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.pdb
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHopital2.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\ref\listaHopital2.dll
+C:\Users\wilfr\Desktop\form parcial\listaHopital2\obj\Debug\net10.0\listaHop.A1C4138E.Up2Date

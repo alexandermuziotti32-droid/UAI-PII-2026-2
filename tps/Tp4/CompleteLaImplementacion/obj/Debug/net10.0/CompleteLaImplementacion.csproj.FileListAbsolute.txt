@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\bin\Debug\net10.0\CompleteLaImplementacion.exe
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\bin\Debug\net10.0\CompleteLaImplementacion.deps.json
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\bin\Debug\net10.0\CompleteLaImplementacion.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\bin\Debug\net10.0\CompleteLaImplementacion.dll
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\bin\Debug\net10.0\CompleteLaImplementacion.pdb
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.dll
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\refint\CompleteLaImplementacion.dll
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.pdb
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\CompleteLaImplementacion.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\ref\CompleteLaImplementacion.dll
+C:\Users\wilfr\Desktop\form parcial\CompleteLaImplementacion\obj\Debug\net10.0\Complete.AF7064FC.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\bin\Debug\net10.0\TorneoPatoÑato.exe
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\bin\Debug\net10.0\TorneoPatoÑato.deps.json
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\bin\Debug\net10.0\TorneoPatoÑato.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\bin\Debug\net10.0\TorneoPatoÑato.dll
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\bin\Debug\net10.0\TorneoPatoÑato.pdb
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.dll
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\refint\TorneoPatoÑato.dll
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.pdb
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPatoÑato.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\ref\TorneoPatoÑato.dll
+C:\Users\wilfr\Desktop\form parcial\TorneoPatoÑato\obj\Debug\net10.0\TorneoPa.78595955.Up2Date

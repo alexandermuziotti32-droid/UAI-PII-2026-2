@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\bin\Debug\net10.0\RegistroAlumnos.exe
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\bin\Debug\net10.0\RegistroAlumnos.deps.json
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\bin\Debug\net10.0\RegistroAlumnos.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\bin\Debug\net10.0\RegistroAlumnos.dll
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\bin\Debug\net10.0\RegistroAlumnos.pdb
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.dll
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\refint\RegistroAlumnos.dll
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.pdb
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\RegistroAlumnos.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\ref\RegistroAlumnos.dll
+C:\Users\wilfr\Desktop\form parcial\RegistroAlumnos\obj\Debug\net10.0\Registro.7875D20A.Up2Date

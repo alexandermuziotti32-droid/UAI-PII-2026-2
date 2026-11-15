@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\bin\Debug\net10.0\ListaHospitales.exe
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\bin\Debug\net10.0\ListaHospitales.deps.json
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\bin\Debug\net10.0\ListaHospitales.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\bin\Debug\net10.0\ListaHospitales.dll
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\bin\Debug\net10.0\ListaHospitales.pdb
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.dll
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\refint\ListaHospitales.dll
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.pdb
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHospitales.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ref\ListaHospitales.dll
+C:\Users\wilfr\Desktop\form parcial\ListaHospitales\obj\Debug\net10.0\ListaHos.6EBE6311.Up2Date

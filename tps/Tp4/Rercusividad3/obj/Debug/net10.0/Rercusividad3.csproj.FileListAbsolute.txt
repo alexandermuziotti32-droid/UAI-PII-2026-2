@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\bin\Debug\net10.0\Rercusividad3.exe
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\bin\Debug\net10.0\Rercusividad3.deps.json
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\bin\Debug\net10.0\Rercusividad3.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\bin\Debug\net10.0\Rercusividad3.dll
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\bin\Debug\net10.0\Rercusividad3.pdb
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.dll
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\refint\Rercusividad3.dll
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.pdb
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusividad3.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\ref\Rercusividad3.dll
+C:\Users\wilfr\Desktop\form parcial\Rercusividad3\obj\Debug\net10.0\Rercusiv.4E492E8F.Up2Date

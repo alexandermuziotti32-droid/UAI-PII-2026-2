@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\bin\Debug\net10.0\ArbolBinario2.exe
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\bin\Debug\net10.0\ArbolBinario2.deps.json
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\bin\Debug\net10.0\ArbolBinario2.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\bin\Debug\net10.0\ArbolBinario2.dll
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\bin\Debug\net10.0\ArbolBinario2.pdb
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.dll
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\refint\ArbolBinario2.dll
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.pdb
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBinario2.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ref\ArbolBinario2.dll
+C:\Users\wilfr\Desktop\form parcial\ArbolBinario2\obj\Debug\net10.0\ArbolBin.4AB764C2.Up2Date

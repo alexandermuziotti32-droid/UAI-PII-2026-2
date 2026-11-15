@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\bin\Debug\net10.0\ArboleBinario1.exe
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\bin\Debug\net10.0\ArboleBinario1.deps.json
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\bin\Debug\net10.0\ArboleBinario1.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\bin\Debug\net10.0\ArboleBinario1.dll
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\bin\Debug\net10.0\ArboleBinario1.pdb
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.dll
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\refint\ArboleBinario1.dll
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.pdb
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBinario1.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ref\ArboleBinario1.dll
+C:\Users\wilfr\Desktop\form parcial\ArboleBinario1\obj\Debug\net10.0\ArboleBi.5A314681.Up2Date

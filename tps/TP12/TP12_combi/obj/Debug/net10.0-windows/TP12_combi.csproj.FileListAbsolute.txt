@@ -1,0 +1,16 @@
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_Combi.NodoPasajero.resources
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.csproj.GenerateResource.cache
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.AssemblyInfoInputs.cache
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.AssemblyInfo.cs
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.csproj.CoreCompileInputs.cache
+C:\Users\User710\source\repos\TP12_combi\bin\Debug\net10.0-windows\TP12_combi.exe
+C:\Users\User710\source\repos\TP12_combi\bin\Debug\net10.0-windows\TP12_combi.deps.json
+C:\Users\User710\source\repos\TP12_combi\bin\Debug\net10.0-windows\TP12_combi.runtimeconfig.json
+C:\Users\User710\source\repos\TP12_combi\bin\Debug\net10.0-windows\TP12_combi.dll
+C:\Users\User710\source\repos\TP12_combi\bin\Debug\net10.0-windows\TP12_combi.pdb
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.dll
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\refint\TP12_combi.dll
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.pdb
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\TP12_combi.genruntimeconfig.cache
+C:\Users\User710\source\repos\TP12_combi\obj\Debug\net10.0-windows\ref\TP12_combi.dll

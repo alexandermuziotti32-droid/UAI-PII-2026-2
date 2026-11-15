@@ -1,0 +1,16 @@
+C:\Users\User710\source\repos\TP12_Reproductor\bin\Debug\net10.0-windows\TP12_Reproductor.exe
+C:\Users\User710\source\repos\TP12_Reproductor\bin\Debug\net10.0-windows\TP12_Reproductor.deps.json
+C:\Users\User710\source\repos\TP12_Reproductor\bin\Debug\net10.0-windows\TP12_Reproductor.runtimeconfig.json
+C:\Users\User710\source\repos\TP12_Reproductor\bin\Debug\net10.0-windows\TP12_Reproductor.dll
+C:\Users\User710\source\repos\TP12_Reproductor\bin\Debug\net10.0-windows\TP12_Reproductor.pdb
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.Cancion.resources
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.csproj.GenerateResource.cache
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.AssemblyInfoInputs.cache
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.AssemblyInfo.cs
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.dll
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\refint\TP12_Reproductor.dll
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.pdb
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\TP12_Reproductor.genruntimeconfig.cache
+C:\Users\User710\source\repos\TP12_Reproductor\obj\Debug\net10.0-windows\ref\TP12_Reproductor.dll

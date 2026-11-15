@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\bin\Debug\net10.0\Sanatorio.exe
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\bin\Debug\net10.0\Sanatorio.deps.json
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\bin\Debug\net10.0\Sanatorio.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\bin\Debug\net10.0\Sanatorio.dll
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\bin\Debug\net10.0\Sanatorio.pdb
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.dll
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\refint\Sanatorio.dll
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.pdb
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\ref\Sanatorio.dll
+C:\Users\wilfr\Desktop\form parcial\Sanatorio\obj\Debug\net10.0\Sanatorio.csproj.Up2Date

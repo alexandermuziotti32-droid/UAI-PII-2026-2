@@ -1,0 +1,4 @@
+28444555;Perez, Ana;8,00
+31222333;Lopez, Juan;9,00
+35111222;Gomez, Carlos;7,00
+41999888;Diaz, Lucia;0,00

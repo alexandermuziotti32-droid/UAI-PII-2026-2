@@ -1,0 +1,4 @@
+30111222;Carlos;Gomez
+10555666;Ana;Perez
+40888999;Lucia;Diaz
+20333444;Juan;Lopez

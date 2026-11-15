@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\bin\Debug\net10.0\ApareoYControlDeArchivos1.exe
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\bin\Debug\net10.0\ApareoYControlDeArchivos1.deps.json
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\bin\Debug\net10.0\ApareoYControlDeArchivos1.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\bin\Debug\net10.0\ApareoYControlDeArchivos1.dll
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\bin\Debug\net10.0\ApareoYControlDeArchivos1.pdb
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.dll
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\refint\ApareoYControlDeArchivos1.dll
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.pdb
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYControlDeArchivos1.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ref\ApareoYControlDeArchivos1.dll
+C:\Users\wilfr\Desktop\form parcial\ApareoYControlDeArchivos1\obj\Debug\net10.0\ApareoYC.1880575F.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\wilfr\Desktop\form parcial\Tp9\bin\Debug\net10.0\Tp9.exe
+C:\Users\wilfr\Desktop\form parcial\Tp9\bin\Debug\net10.0\Tp9.deps.json
+C:\Users\wilfr\Desktop\form parcial\Tp9\bin\Debug\net10.0\Tp9.runtimeconfig.json
+C:\Users\wilfr\Desktop\form parcial\Tp9\bin\Debug\net10.0\Tp9.dll
+C:\Users\wilfr\Desktop\form parcial\Tp9\bin\Debug\net10.0\Tp9.pdb
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.AssemblyInfoInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.AssemblyInfo.cs
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.csproj.CoreCompileInputs.cache
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.dll
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\refint\Tp9.dll
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.pdb
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.genruntimeconfig.cache
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\ref\Tp9.dll
+C:\Users\wilfr\Desktop\form parcial\Tp9\obj\Debug\net10.0\Tp9.csproj.Up2Date

@@ -1,0 +1,10 @@
+C:\Users\Outlet VL\source\repos\SoundCloud\bin\Debug\SoundCloud.exe.config
+C:\Users\Outlet VL\source\repos\SoundCloud\bin\Debug\SoundCloud.exe
+C:\Users\Outlet VL\source\repos\SoundCloud\bin\Debug\SoundCloud.pdb
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.csproj.AssemblyReference.cache
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.SoundCloud.resources
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.Properties.Resources.resources
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.csproj.GenerateResource.cache
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.csproj.CoreCompileInputs.cache
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.exe
+C:\Users\Outlet VL\source\repos\SoundCloud\obj\Debug\SoundCloud.pdb

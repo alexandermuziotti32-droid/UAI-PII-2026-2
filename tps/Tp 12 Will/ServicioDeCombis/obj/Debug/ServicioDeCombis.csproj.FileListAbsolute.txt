@@ -1,0 +1,10 @@
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\bin\Debug\ServicioDeCombis.exe.config
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\bin\Debug\ServicioDeCombis.exe
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\bin\Debug\ServicioDeCombis.pdb
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.csproj.AssemblyReference.cache
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.SerivicioDeCombis.resources
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.Properties.Resources.resources
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.csproj.GenerateResource.cache
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.csproj.CoreCompileInputs.cache
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.exe
+C:\Users\Outlet VL\source\repos\ServicioDeCombis\obj\Debug\ServicioDeCombis.pdb
